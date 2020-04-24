@@ -119,6 +119,10 @@ footer ul li{
     padding: 29px;
 }
 @media (max-width: 600px) {
+    .container {
+    width: 90%;
+    margin: auto;
+    }
     .header_container h1 {
         margin-bottom: 10px;
         font-size: 50px;
